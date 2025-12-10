@@ -1,9 +1,8 @@
-Berikut solusi lengkap **dengan langkah implementasi, struktur direktori, contoh file sample, script organisasi file, fungsi pencarian, dan pembuatan laporan**.
-Semua contoh perintah dapat langsung dijalankan di Linux / WSL / macOS.
+# PROJECT_SO_ANDRI!
 
 ---
 
-# ✅ **1. Buat Struktur Direktori**
+# 1. Buat Struktur Direktori**
 
 ```bash
 mkdir -p documents images archives logs
@@ -11,7 +10,7 @@ mkdir -p documents images archives logs
 
 ---
 
-# ✅ **2. Buat 20+ File Sample**
+# 2. Buat 20+ File Sample**
 
 Berikut contoh pembuatan 20+ file dengan berbagai ekstensi:
 
@@ -37,7 +36,7 @@ touch script.sh data1.csv data2.csv config.yaml unknown.tmp
 
 ---
 
-# ✅ **3. Script Organisasi File Otomatis**
+# 3. Script Organisasi File Otomatis**
 
 Script berikut akan memindahkan file berdasarkan ekstensi ke folder yang sesuai:
 
@@ -75,7 +74,7 @@ chmod +x organize_files.sh
 
 ---
 
-# ✅ **4. Fungsi Pencarian File**
+# 4. Fungsi Pencarian File**
 
 Script berikut menyediakan 3 fungsi pencarian:
 
@@ -134,7 +133,7 @@ chmod +x search_tools.sh
 
 ---
 
-# ✅ **5. Generate Laporan Sistem File**
+# 5. Generate Laporan Sistem File**
 
 Gunakan `ls`, `wc`, `du`, piping, dan redirect output ke `report.txt`.
 
@@ -169,13 +168,5 @@ chmod +x generate_report.sh
 
 ---
 
-# 🎉 **Semua tugas proyek selesai!**
+#  **Semua tugas proyek selesai!**
 
-Jika kamu ingin versi **otomatis yang menggabungkan semua script menjadi satu**, atau ingin **menambahkan fitur advanced** seperti:
-
-* Logging otomatis
-* Backup
-* Notifikasi
-* Cron job
-
-Cukup beri tahu!
